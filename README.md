@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <h1> Holaaa👋 </h1>
 <h2>Desarrollador Front End</h2>
 
-<h4>  Me encanta estar al tanto de las últimas tendencias y tecnologías en desarrollo web y estoy siempre buscando oportunidades para seguir aprendiendo y mejorar mis habilidades. Si buscas un desarrollador Front End comprometido, apasionado y con ganas de aprender, ¡contáctame! Estoy emocionado por conocer nuevas personas y proyectos." </h4>
+<h4>  Me encanta estar al tanto de las últimas tendencias y tecnologías en desarrollo web y estoy siempre buscando oportunidades para seguir aprendiendo y mejorar mis habilidades. Si buscas un desarrollador Front End comprometido, apasionado y con ganas de aprender, ¡contáctame! Estoy emocionado por conocer nuevas personas y proyectos. </h4>
 
 </div>
