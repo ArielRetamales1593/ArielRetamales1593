@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Holaaa👋 </h2>
-<h5> Ariel Retamales Tapia / Desarrollador web</h5>
+<h3> Ariel Retamales Tapia / Desarrollador web</h3>
 <img align="right" alt="GIF"src="https://media.giphy.com/media/es40jyb1I3JkCvt31a/giphy.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
