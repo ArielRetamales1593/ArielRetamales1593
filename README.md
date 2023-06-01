@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-<h3> 🤝🏻 Si buscas un desarrollador Front End comprometido, apasionado y con ganas de aprender, ¡contáctame! Estoy emocionado por conocer nuevas personas y proyectos. </h3>
+<h4> 🤝🏻 Si buscas un desarrollador Front End comprometido, apasionado y con ganas de aprender, ¡contáctame! Estoy emocionado por conocer nuevas personas y proyectos. </h4>
 
 <p align="center">
 
