@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 
-- 🤔 Me encanta estar al tanto de las últimas tendencias y tecnologías en desarrollo web y estoy siempre buscando oportunidades para seguir aprendiendo y mejorar mis habilidades. 
+- 🤔 Me encanta estar al tanto de las últimas tendencias y tecnologías en desarrollo web , estoy siempre buscando oportunidades para seguir aprendiendo y mejorar mis habilidades. 
 - 🎓 Música y programación
-- 💼 front-end web developer.
+- 💼 Front-end web developer.
 
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; JAVA| HTML | CSS | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; Java| Html | Css | JavaScript | Bootstrap | React 
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp;  Visual Studio code | Git
 - 🖥 &nbsp; Figma | Photoshop 
