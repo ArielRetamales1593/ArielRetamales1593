@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; Java| Html | Css | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; Java| Html | Css | JavaScript | Bootstrap | React | Next Js
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp;  Visual Studio code | Git
 - 🖥 &nbsp; Figma | Photoshop 
